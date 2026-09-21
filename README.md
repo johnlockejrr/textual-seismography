@@ -2,7 +2,7 @@
 
 **Detecting redactional seams in the Book of Isaiah with dual-model transformer perplexity**
 
-Agnieszka Blanka Ziemińska · Pontifical University of John Paul II, Kraków · Centre for Digital Humanities, IBL PAN, Warsaw
+Centre for Digital Humanities, IBL PAN, Warsaw
 
 **→ [Interactive seismograph for Isaiah](https://agnieszkachr.github.io/textual-seismography/)**
 
